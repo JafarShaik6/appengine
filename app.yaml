@@ -1,7 +1,8 @@
 runtime: python37
 env : standard
 
-
+inbound_services:
+- warmup
 handlers:
 - url: /calcAngle
   script: auto
