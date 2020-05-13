@@ -3,5 +3,5 @@ env : standard
 
 
 handlers:
-- url: /
-  script: main.py
+- url: /calcAngle
+  script: auto
