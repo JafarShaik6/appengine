@@ -1,5 +1,7 @@
 runtime: python37
 env : standard
 
+
+handlers:
 - url: /
   script: main.py
